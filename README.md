@@ -15,6 +15,6 @@ Contract [address](https://ropsten.etherscan.io/address/0xe75c3087ddf91db11a6b17
 # TODO
 - mapping key => adresses[]
 - filter records by address
-- key generation, assigning addresses
+- key generation, assigning addresses, ...
 
 
