@@ -1,3 +1,8 @@
+# THIS ADDS TOO MUCH GAS FOR NOW. CURRENT OBJECTIVE IS TO DO THE SAME WITH A SUBGRAPH LISTENING TO THE EVENTS.
+
+---
+---
+---
 <h1>Sushi Tracker</h1>
 
 # Tracking Swap/Liquidity
